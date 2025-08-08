@@ -1,60 +1,88 @@
-# Hey there 👋
+<!-- HEADER -->
+<h1 align="center">안녕하세요! I'm Truong Van Quyen 👋</h1>
 
-## About Me
-
-Hello! I'm **Truong Van Quyen**, a third-year student majoring in **Software Engineering** at **FPT University**. I am passionate about software development and am currently focusing on learning **Java** and **Spring Boot**. I’m eager to explore new technologies and continually improve my skills. 🚀
-
-## Skills
-
-- **Programming Languages:**  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quyen-tv&layout=compact&hide_border=true&langs_count=10)
-- **Database:**  
-  ![MS SQL](https://img.shields.io/badge/MS%20SQL-003B57?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=mysql&logoColor=white)
-- **Version Control:**  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- **Framework:**  
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-
-## Personal Projects
-
-- **Badminton Court Booking**: A badminton court management application built with Spring Boot and ReactJS. This application allows users to view, book badminton courts, and make online payments. 🏸💳  
-  [View Project](https://github.com/quyen-tv/badminton-court-booking-backend-v2)
-
-## Education
-
-- **Bachelor’s in Software Engineering** at **FPT University** (Expected 2025) 🎓
-
-## Career Goals
-
-- To learn and develop advanced programming skills through real-world projects. 🛠️
-- To build a solid foundation in application development with Java and Spring Boot. 💻
-- To seek internship opportunities or entry-level positions in tech companies to apply knowledge and skills in practical settings. 🌟
-
-## Contact
-
-- **Email:** [tvq05112003@gmail.com](mailto:tvq05112003@gmail.com) 📧
-- **LinkedIn:** [pending...] 🔗
-- **GitHub:** [https://github.com/quyen-tv](https://github.com/quyen-tv) 👤
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=🇻🇳+Software+Engineer+%26+Korean+IT+Bridge+Engineer+🇰🇷" alt="Typing SVG" />
+</p>
 
 ---
 
-Thank you for visiting my GitHub profile. I'm always open to collaboration and learning from the developer community. Feel free to reach out if you have any questions or would like to discuss projects! 🤝
+<!-- ABOUT ME -->
+## 🧑‍💻 About Me
 
+🎓 I'm currently studying **Korean Bridge Engineering (Kỹ sư cầu nối Hàn Quốc)**  
+🌏 Passionate about connecting **technology** and **multicultural communication**  
+📚 Building full-stack apps and language-learning tools  
 
+---
 
+## 🛠️ Tech Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=z&logoColor=white" />
+  <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Realtime DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+  <img src="https://img.shields.io/badge/Husky-7E37A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
+---
 
-<!--
-**quyen-tv/quyen-tv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- STATS & LANGUAGES -->
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quyen-tv&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyen-tv&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=quyen-tv&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quyen-tv&theme=github_dark" />
+</p>
+
+<!-- GOALS -->
+## 🎯 Career Goals
+
+- 🤝 Become a **professional Korean Bridge Engineer** in an international software company  
+- 🌍 Facilitate effective collaboration between Vietnamese dev teams and Korean clients  
+- 🧩 Build **education & productivity tools** using multilingual, cross-platform technology  
+- 💡 Apply tech in **language learning, project management**, and **remote coordination**
+
+---
+
+<!-- CONNECT -->
+## 📬 Let's Connect
+
+<p align="left">
+  <a href="mailto:your_email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
